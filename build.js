@@ -13307,7 +13307,8 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     }, [_c('img', {
       attrs: {
         "src": ite.img,
-        "alt": ""
+        "width": "100%",
+        "height": "100%"
       }
     })]), _vm._v(" "), _c('div', {
       staticClass: "wrap_txt"
